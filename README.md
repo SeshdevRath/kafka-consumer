@@ -1,6 +1,19 @@
 # kafka-consumer
 Kafka consumer example
 
+STEPS
+=====
+-> Start zookeeper server
+
+-> Start Kafka server
+
+-> Create a topic
+
+-> Start producer for the topic
+
+-> Add KafkaListeners in your project to consume the required produced topic
+
+
 Install Kafka
 -------------
 brew install Kafka  
