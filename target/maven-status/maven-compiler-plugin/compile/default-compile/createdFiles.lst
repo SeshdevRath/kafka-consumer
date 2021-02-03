@@ -1,0 +1,4 @@
+com/kafkaconsumer/example/config/ContainerFactoryConfigurer.class
+com/kafkaconsumer/example/listeners/KafkaConsumer.class
+com/kafkaconsumer/example/KafkaConsumerApplication.class
+com/kafkaconsumer/example/config/KafkaConfig.class
